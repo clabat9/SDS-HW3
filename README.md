@@ -5,7 +5,7 @@
 
 ![alt text](https://www.the-tls.co.uk/s3/tls-prod/uploads/2018/06/Thomas-Bayes.jpg)
 
-This work is an introduction to [Bayesian Networks] (https://en.wikipedia.org/wiki/Bayesian_network).
+This work is an introduction to [Bayesian Networks](https://en.wikipedia.org/wiki/Bayesian_network).
 
 For some strange turn in the history of science, (many) astrophysicists are real Bayesian “evangelists” that use, misuse and
 push the old Reverend into their data analytic games as soon as they possibly can. This little_tiny_exercise inspired by a not
