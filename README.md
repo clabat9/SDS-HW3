@@ -1,6 +1,6 @@
 # SDS-HW3
 
-# Graphical Models
+# Bayesian Networks
 
 
 ![alt text](https://www.the-tls.co.uk/s3/tls-prod/uploads/2018/06/Thomas-Bayes.jpg)
